@@ -1,1 +1,1 @@
-`python controller.py`
+`python demo.py`
